@@ -1,4 +1,4 @@
-CodeX - Ai Assistant
+#CodeX - Ai Assistant
 
 •	Created an elegant user interface that resembles the Chat GPT application using HTML, CSS, JavaScript, Node.js.
 
